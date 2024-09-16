@@ -1,0 +1,1 @@
+# Shopping-Cart-Web-Application-with-React-Redux-Redux-Thunk-Node.js-and-PostgreSQL
